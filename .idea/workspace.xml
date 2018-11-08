@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3546aa0d-4e59-4685-8788-e0a24cff5d1d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gui/frame/MainFrame.java" afterPath="$PROJECT_DIR$/src/gui/frame/MainFrame.java" />
     </list>
     <list id="c4971f07-1b20-46dd-ad5e-43f7a5952359" name="New changelist" comment="beike" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -853,12 +852,20 @@
       <workItem from="1541598215034" duration="508000" />
       <workItem from="1541598756068" duration="2295000" />
       <workItem from="1541601425297" duration="435000" />
-      <workItem from="1541687296175" duration="1730000" />
+      <workItem from="1541687296175" duration="1797000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1541690070447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541690070447</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4968000" />
+    <option name="totallyTimeSpent" value="5035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
