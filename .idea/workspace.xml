@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3546aa0d-4e59-4685-8788-e0a24cff5d1d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MainFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gui/panel/MainPanel.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gui/frame/MainFrame.java" afterPath="$PROJECT_DIR$/src/gui/frame/MainFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gui/panel/MainPanel.java" afterPath="$PROJECT_DIR$/src/gui/panel/MainPanel.java" />
     </list>
     <list id="c4971f07-1b20-46dd-ad5e-43f7a5952359" name="New changelist" comment="beike" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,21 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainFrame.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainFrame.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/gui/frame/MainFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="247">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainPanel.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainPanel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gui/panel/MainPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="190">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,8 +81,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/gui/frame/Main.java" />
         <option value="$PROJECT_DIR$/src/gui/MainFrame.java" />
-        <option value="$PROJECT_DIR$/src/gui/frame/MainFrame.java" />
         <option value="$PROJECT_DIR$/src/MainFrame.java" />
+        <option value="$PROJECT_DIR$/src/gui/panel/MainPanel.java" />
+        <option value="$PROJECT_DIR$/src/gui/frame/MainFrame.java" />
       </list>
     </option>
   </component>
@@ -201,6 +201,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="D:/迅雷下载/hutubill(1)" />
+    <property name="GO_FMT" value="false" />
   </component>
   <component name="RunManager" selected="Application.HutuMainFrame">
     <configuration default="false" name="HutuMainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -908,7 +909,7 @@
       <workItem from="1541598756068" duration="2295000" />
       <workItem from="1541601425297" duration="435000" />
       <workItem from="1541687296175" duration="1797000" />
-      <workItem from="1541726960650" duration="1949000" />
+      <workItem from="1541726960650" duration="4069000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1541690070447</created>
@@ -917,15 +918,22 @@
       <option name="project" value="LOCAL" />
       <updated>1541690070447</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1541734835189</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541734835189</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6984000" />
+    <option name="totallyTimeSpent" value="9104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -937,7 +945,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3147541" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47213113" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53934425" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28360656" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1049,18 +1057,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/frame/MainFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/gui/panel/MainPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gui/panel/MainPanel.java">
+    <entry file="file://$PROJECT_DIR$/src/gui/frame/MainFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="247">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
